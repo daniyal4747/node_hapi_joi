@@ -1,0 +1,6 @@
+PORT=4000
+NODE_ENV=development
+SERVER_URI=http://localhost:4000
+SERVER_SECRET_KEY=SecretKeyMustBeStrong
+
+DATABASE_NAME=Testflight
